@@ -22,18 +22,6 @@ Este proyecto es un ejercicio introductorio en Java que cubre:
 | Relacionales | `>` `==` | Comparan dos valores y devuelven un `boolean` |
 | Lógicos | `&&` `\|\|` | Combinan condiciones booleanas |
 
-## 🛠️ Tecnologías
-
-- Java
-- Maven
-
-## ▶️ Cómo ejecutar
-
-```bash
-mvn compile
-mvn exec:java -Dexec.mainClass="ui.Main"
-```
-
 ## 📂 Estructura del proyecto
 
 002-operadores/

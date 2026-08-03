@@ -24,16 +24,20 @@ Este proyecto es un ejercicio introductorio en Java que cubre:
 
 ## 📂 Estructura del proyecto
 
-002-operadores/
-├── .idea/                # Configuración local de IntelliJ (no se sube a git)
-├── .mvn/                 # Maven Wrapper
-├── src/
-│ ├── main/
-│ │ ├── java/
-│ │ │ └── ui/
-│ │ │ └── Main.java       # Clase principal con ejemplos de operadores
-│ │ └── resources/        # Recursos del proyecto
-│ └── test/               # Pruebas unitarias
-├── .gitignore
-└── pom.xml               # Configuración de dependencias y build (Maven)
+## 📂 Estructura del proyecto
 
+```
+VariablesTipo/
+├── .idea/                          # Configuración local de IntelliJ (no se sube a git)
+├── .mvn/                           # Maven Wrapper
+├── src/
+│   ├── main/
+│   │   ├── java/
+│   │   │   └── ui/
+│   │   │       └── Main.java       # Clase principal con variables, tipos y casting
+│   │   └── resources/              # Recursos del proyecto
+│   └── test/                       # Pruebas unitarias
+├── target/                         # Archivos generados por Maven
+├── .gitignore
+└── pom.xml                         # Configuración de dependencias y build (Maven)
+```

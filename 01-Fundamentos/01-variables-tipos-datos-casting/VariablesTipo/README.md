@@ -41,7 +41,7 @@ VariablesTipo/
 │   │   │       └── Main.java       # Clase principal con variables, tipos y casting
 │   │   └── resources/              # Recursos del proyecto
 │   └── test/                       # Pruebas unitarias
-├── target/                         # Archivos generados por Maven (no se sube a git)
+├── target/                         # Archivos generados por Maven 
 ├── .gitignore
 └── pom.xml                         # Configuración de dependencias y build (Maven)
 ```

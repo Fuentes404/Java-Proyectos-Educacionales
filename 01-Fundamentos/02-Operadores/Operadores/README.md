@@ -24,8 +24,6 @@ Este proyecto es un ejercicio introductorio en Java que cubre:
 
 ## 📂 Estructura del proyecto
 
-## 📂 Estructura del proyecto
-
 ```
 VariablesTipo/
 ├── .idea/                          # Configuración local de IntelliJ (no se sube a git)

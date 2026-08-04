@@ -1,7 +1,7 @@
 # Condicionales en Java
 
 Ejercicio en Java que muestra el uso de los distintos tipos de estructuras condicionales del lenguaje: `if`, `if-else` e `if-else if`, aplicados a la validación de un día de la semana ingresado por el usuario.
-
+ 
 ## 📋 Descripción
 
 Este proyecto es un ejercicio introductorio en Java que cubre:

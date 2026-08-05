@@ -103,7 +103,7 @@ Java-Proyectos-Educacionales/
 - [x] Variables, tipos de datos primitivos y casting
 - [x] Operadores (aritméticos, lógicos, relacionales, bit a bit)
 - [x] Estructuras condicionales (if, switch, switch expressions)
-- [ ] Estructuras de repetición (for, while, do-while, for-each)
+- [x] Estructuras de repetición (for, while, do-while, for-each)
 - [ ] Arrays (unidimensionales y multidimensionales)
 - [ ] Métodos (parámetros, retorno, sobrecarga - overloading)
 - [ ] Scanner y entrada de datos por consola

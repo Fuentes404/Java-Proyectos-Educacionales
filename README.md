@@ -2,7 +2,7 @@
 
 Repositorio con ejercicios y proyectos de Java desarrollados durante la universidad, organizados por tema. Cubre progresivamente desde fundamentos (variables, POO) hasta temas avanzados como colecciones, genéricos, programación funcional, concurrencia, patrones de diseño, persistencia con BD y proyectos integradores.
 
-Progreso: ▓░░░░░░░░░░░░░░░░░░░ 2%
+Progreso: ▓░░░░░░░░░░░░░░░░░░░ 3%
 
 ---
 
@@ -104,7 +104,7 @@ Java-Proyectos-Educacionales/
 - [x] Operadores (aritméticos, lógicos, relacionales, bit a bit)
 - [x] Estructuras condicionales (if, switch, switch expressions)
 - [x] Estructuras de repetición (for, while, do-while, for-each)
-- [ ] Arrays (unidimensionales y multidimensionales)
+- [x] Arrays (unidimensionales y multidimensionales)
 - [ ] Métodos (parámetros, retorno, sobrecarga - overloading)
 - [ ] Scanner y entrada de datos por consola
 

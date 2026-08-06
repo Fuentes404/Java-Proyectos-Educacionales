@@ -109,7 +109,7 @@ Java-Proyectos-Educacionales/
 - [ ] Scanner y entrada de datos por consola
 
 ### 2. Programación Orientada a Objetos (POO)
-- [ ] Clases y objetos
+- [x] Clases y objetos
 - [ ] Atributos, constructores y this
 - [ ] Encapsulamiento (getters/setters, modificadores de acceso)
 - [ ] Herencia (extends, super)

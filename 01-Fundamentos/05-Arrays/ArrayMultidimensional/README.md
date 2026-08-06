@@ -1,4 +1,4 @@
-# Arrays Bidimensionales
+# Arrays Multidimensionales
 
 Ejercicio en Java que muestra la creación, asignación y recorrido de matrices (`arrays bidimensionales`) utilizando acceso por índice, ciclo `for` anidado y ciclo `for-each` anidado.
 

@@ -25,7 +25,7 @@ Este proyecto es un ejercicio introductorio en Java que cubre:
 ## 📂 Estructura del proyecto
 
 ```
-Arrays/
+ArraysUnidimensional/
 ├── .idea/                          # Configuración local de IntelliJ
 ├── .mvn/                           # Maven Wrapper
 ├── src/

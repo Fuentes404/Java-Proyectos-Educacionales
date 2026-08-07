@@ -23,10 +23,12 @@ public class Persona {
         this.cargo = cargo;
     }
 
+    // Metodo Saludar
     public void saludar() {
         System.out.println("Bienvenido : " + nombre + " | Cargo : " + cargo);
     }
 
+    // Metodo Mostrar informacion
     public void mostrarInformacion() {
         System.out.println("Datos:" + " | Nombre : " + nombre + " | Edad : " + edad + " | Cargo : " + cargo);
     }

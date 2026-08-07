@@ -2,7 +2,7 @@
 
 Repositorio con ejercicios y proyectos de Java desarrollados durante la universidad, organizados por tema. Cubre progresivamente desde fundamentos (variables, POO) hasta temas avanzados como colecciones, genéricos, programación funcional, concurrencia, patrones de diseño, persistencia con BD y proyectos integradores.
 
-Progreso: ▓░░░░░░░░░░░░░░░░░░░ 3%
+Progreso: ▓░░░░░░░░░░░░░░░░░░░ 4%
 
 ---
 
@@ -112,7 +112,7 @@ Java-Proyectos-Educacionales/
 - [x] Clases y objetos
 - [x] Atributos, constructores y this
 - [X] Encapsulamiento (getters/setters, modificadores de acceso)
-- [ ] Herencia (extends, super)
+- [x] Herencia (extends, super)
 - [ ] Polimorfismo (sobreescritura - overriding)
 - [ ] Clases abstractas
 - [ ] Interfaces (métodos default y static)

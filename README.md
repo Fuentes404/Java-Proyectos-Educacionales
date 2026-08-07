@@ -111,7 +111,7 @@ Java-Proyectos-Educacionales/
 ### 2. Programación Orientada a Objetos (POO)
 - [x] Clases y objetos
 - [x] Atributos, constructores y this
-- [ ] Encapsulamiento (getters/setters, modificadores de acceso)
+- [X] Encapsulamiento (getters/setters, modificadores de acceso)
 - [ ] Herencia (extends, super)
 - [ ] Polimorfismo (sobreescritura - overriding)
 - [ ] Clases abstractas

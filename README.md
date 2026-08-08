@@ -113,7 +113,7 @@ Java-Proyectos-Educacionales/
 - [x] Atributos, constructores y this
 - [X] Encapsulamiento (getters/setters, modificadores de acceso)
 - [x] Herencia (extends, super)
-- [ ] Polimorfismo (sobreescritura - overriding)
+- [x] Polimorfismo (sobreescritura)
 - [ ] Clases abstractas
 - [ ] Interfaces (métodos default y static)
 - [ ] Composición vs Herencia

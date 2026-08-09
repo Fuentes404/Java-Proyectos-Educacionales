@@ -106,7 +106,7 @@ Java-Proyectos-Educacionales/
 - [x] Estructuras de repetición (for, while, do-while, for-each)
 - [x] Arrays (unidimensionales y multidimensionales)
 - [ ] Métodos (parámetros, retorno, sobrecarga - overloading)
-- [ ] Scanner y entrada de datos por consola
+- [X] Scanner y entrada de datos por consola
 
 ### 2. Programación Orientada a Objetos (POO)
 - [x] Clases y objetos

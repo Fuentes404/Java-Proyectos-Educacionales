@@ -27,7 +27,7 @@ Java-Proyectos-Educacionales/
 │   ├── 005-polimorfismo-overriding/
 │   ├── 006-clases-abstractas/
 │   ├── 007-interfaces/
-│   ├── 008-composicion-vs-herencia/
+│   ├── 008-composicion/
 │   ├── 009-enums/
 │   └── 010-clases-internas/
 │
@@ -115,8 +115,8 @@ Java-Proyectos-Educacionales/
 - [x] Herencia (extends, super)
 - [x] Polimorfismo (sobreescritura)
 - [x] Clases abstractas
-- [ ] Interfaces (métodos default y static)
-- [ ] Composición vs Herencia
+- [x] Interfaces (métodos default y static)
+- [ ] Composición
 - [ ] Enums
 - [ ] Clases internas (inner classes, anonymous classes)
 

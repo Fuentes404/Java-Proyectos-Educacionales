@@ -116,7 +116,7 @@ Java-Proyectos-Educacionales/
 - [x] Polimorfismo (sobreescritura)
 - [x] Clases abstractas
 - [x] Interfaces (métodos default y static)
-- [ ] Composición
+- [x] Composición
 - [ ] Enums
 - [ ] Clases internas (inner classes, anonymous classes)
 

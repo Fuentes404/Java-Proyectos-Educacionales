@@ -2,7 +2,7 @@
 
 Repositorio con ejercicios y proyectos de Java desarrollados durante la universidad, organizados por tema. Cubre progresivamente desde fundamentos (variables, POO) hasta temas avanzados como colecciones, genéricos, programación funcional, concurrencia, patrones de diseño, persistencia con BD y proyectos integradores.
 
-Progreso: ▓░░░░░░░░░░░░░░░░░░░ 8%
+Progreso: ▓▓░░░░░░░░░░░░░░░░░░ 10%
 
 ---
 
@@ -117,7 +117,7 @@ Java-Proyectos-Educacionales/
 - [x] Clases abstractas
 - [x] Interfaces (métodos default y static)
 - [x] Composición
-- [ ] Enums
+- [x] Enums
 - [ ] Clases internas (inner classes, anonymous classes)
 
 ### 3. Manejo de errores

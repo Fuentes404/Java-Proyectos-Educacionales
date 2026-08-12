@@ -186,26 +186,28 @@ Java-Proyectos-Educacionales/
 
 ## 📚 Índice de ejercicios
 
-| N°  | Tema        | Ejercicio                                                                                                                                       |
-| --- | ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 001 | Fundamentos | [Variables, tipos de datos y casting](01-Fundamentos/01-variables-tipos-datos-casting/VariablesTipo)                                              |
-| 002 | Fundamentos | [Operadores](01-Fundamentos/02-Operadores/Operadores)                                                                                              |
-| 003 | Fundamentos | [Condicionales (if / if-else / if-else if) — Día de la semana](01-Fundamentos/03-estructuras-condicionales/DiaSemana)                             |
-| 004 | Fundamentos | [Condicionales con switch — Día de la semana](01-Fundamentos/03-estructuras-condicionales/DiaSemanaSwitch)                                        |
-| 005 | Fundamentos | [Menú combinado — Estructuras de repetición (for, while, do-while, for-each)](<01-Fundamentos/04-estructuras-repeticion/Menu for do while>)       |
-| 006 | Fundamentos | [Arrays unidimensionales](01-Fundamentos/05-Arrays/ArrayUnidimensional)                                                                            |
-| 007 | Fundamentos | [Arrays multidimensionales](01-Fundamentos/05-Arrays/ArrayMultidimensional)                                                                        |
-| 008 | Fundamentos | [Sobrescritura de métodos — Herencia y Polimorfismo](01-Fundamentos/06-Metodos-overloading/PoliformismoOverride)                                  |
-| 009 | Fundamentos | [Scanner — Entrada de datos por consola](01-Fundamentos/07-Scanner/Scanner)                                                                        |
-| 010 | POO         | [Clases y objetos](<02-Programación Orientada a Objetos/01-Clases y objetos/Interaccion>)                                                          |
-| 011 | POO         | [Atributos y constructores (this)](<02-Programación Orientada a Objetos/02-atributos-constructores-this/AtributosConstructor>)                    |
-| 012 | POO         | [Encapsulamiento, getters y setters](<02-Programación Orientada a Objetos/03-Encapsulamiento/Encapsulamiento>)                                     |
-| 013 | POO         | [Herencia — Persona, Trabajador y Cliente](<02-Programación Orientada a Objetos/04-Herencia/Personal>)                                             |
-| 014 | POO         | [Polimorfismo y sobrescritura de métodos](<02-Programación Orientada a Objetos/05-Polimorfismo/TrabajandoPolimorfismo>)                            |
-| 015 | POO         | [Clases abstractas — Persona abstracta](<02-Programación Orientada a Objetos/06-Clases-abstractas/PersonaAbstracta>)                               |
-| 016 | POO         | [Interfaces — herencia abstracta + contrato por interfaz](<02-Programación Orientada a Objetos/07-Interfaces/UsandoInterfaces>)                    |
-| 017 | POO         | [Composición — Colegio, Curso y Estudiante](<02-Programación Orientada a Objetos/08-Composicion/ColegioComposicion>)                               |
-| 018 | POO         | [Enums — encapsulamiento de lógica con enum](<02-Programación Orientada a Objetos/09-Enums/EjemploEnumsSwitch>)                                    |
+## 📚 Índice de ejercicios
+
+| N°  | Tema        | Subtema                        | Ejercicio                                                                                                       |
+| --- | ----------- | ------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
+| 001 | Fundamentos | Variables y tipos de datos      | [Variables, tipos de datos y casting](01-Fundamentos/01-variables-tipos-datos-casting/VariablesTipo)               |
+| 002 | Fundamentos | Operadores                      | [Operadores](01-Fundamentos/02-Operadores/Operadores)                                                               |
+| 003 | Fundamentos | Estructuras condicionales       | [Condicionales (if / if-else / if-else if) — Día de la semana](01-Fundamentos/03-estructuras-condicionales/DiaSemana) |
+| 004 | Fundamentos | Estructuras condicionales       | [Condicionales con switch — Día de la semana](01-Fundamentos/03-estructuras-condicionales/DiaSemanaSwitch)         |
+| 005 | Fundamentos | Estructuras de repetición       | [Menú combinado — for, while, do-while, for-each](<01-Fundamentos/04-estructuras-repeticion/Menu for do while>)     |
+| 006 | Fundamentos | Arrays                          | [Arrays unidimensionales](01-Fundamentos/05-Arrays/ArrayUnidimensional)                                             |
+| 007 | Fundamentos | Arrays                          | [Arrays multidimensionales](01-Fundamentos/05-Arrays/ArrayMultidimensional)                                         |
+| 008 | Fundamentos | Métodos (overloading)           | [Sobrescritura de métodos — Herencia y Polimorfismo](01-Fundamentos/06-Metodos-overloading/PoliformismoOverride)   |
+| 009 | Fundamentos | Scanner                         | [Scanner — Entrada de datos por consola](01-Fundamentos/07-Scanner/Scanner)                                        |
+| 010 | POO         | Clases y objetos                | [Clases y objetos](<02-Programación Orientada a Objetos/01-Clases y objetos/Interaccion>)                          |
+| 011 | POO         | Atributos, constructores y this | [Atributos y constructores (this)](<02-Programación Orientada a Objetos/02-atributos-constructores-this/AtributosConstructor>) |
+| 012 | POO         | Encapsulamiento                 | [Encapsulamiento, getters y setters](<02-Programación Orientada a Objetos/03-Encapsulamiento/Encapsulamiento>)     |
+| 013 | POO         | Herencia                        | [Herencia — Persona, Trabajador y Cliente](<02-Programación Orientada a Objetos/04-Herencia/Personal>)             |
+| 014 | POO         | Polimorfismo                    | [Polimorfismo y sobrescritura de métodos](<02-Programación Orientada a Objetos/05-Polimorfismo/TrabajandoPolimorfismo>) |
+| 015 | POO         | Clases abstractas               | [Clases abstractas — Persona abstracta](<02-Programación Orientada a Objetos/06-Clases-abstractas/PersonaAbstracta>) |
+| 016 | POO         | Interfaces                      | [Interfaces — herencia abstracta + contrato por interfaz](<02-Programación Orientada a Objetos/07-Interfaces/UsandoInterfaces>) |
+| 017 | POO         | Composición                     | [Composición — Colegio, Curso y Estudiante](<02-Programación Orientada a Objetos/08-Composicion/ColegioComposicion>) |
+| 018 | POO         | Enums                            | [Enums — encapsulamiento de lógica con enum](<02-Programación Orientada a Objetos/09-Enums/EjemploEnumsSwitch>)    |
 
 ---
 

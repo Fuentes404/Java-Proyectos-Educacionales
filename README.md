@@ -184,7 +184,6 @@ Java-Proyectos-Educacionales/
 
 ---
 
-## 📚 Índice de ejercicios
 
 ## 📚 Índice de ejercicios
 

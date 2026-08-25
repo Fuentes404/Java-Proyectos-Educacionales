@@ -3,7 +3,7 @@
 
 Repositorio con ejercicios y proyectos de Java desarrollados durante la universidad, organizados por tema. Cubre progresivamente desde fundamentos (variables, POO) hasta temas avanzados como colecciones, genéricos, programación funcional, concurrencia, patrones de diseño, persistencia con BD y proyectos integradores.
 
-Progreso: ▓▓░░░░░░░░░░░░░░░░░░ 14%
+Progreso: ▓▓▓▓▓▓░░░░░░░░░░░░░░ 29%
 
 ---
 
@@ -194,19 +194,23 @@ Java-Proyectos-Educacionales/
 | 003 | Fundamentos | Estructuras condicionales       | [Condicionales (if / if-else / if-else if) — Día de la semana](01-Fundamentos/03-estructuras-condicionales/DiaSemana) |
 | 004 | Fundamentos | Estructuras condicionales       | [Condicionales con switch — Día de la semana](01-Fundamentos/03-estructuras-condicionales/DiaSemanaSwitch)         |
 | 005 | Fundamentos | Estructuras de repetición       | [Menú combinado — for, while, do-while, for-each](<01-Fundamentos/04-estructuras-repeticion/Menu for do while>)     |
-| 006 | Fundamentos | Arrays                          | [Arrays unidimensionales](01-Fundamentos/05-Arrays/ArrayUnidimensional)                                             |
-| 007 | Fundamentos | Arrays                          | [Arrays multidimensionales](01-Fundamentos/05-Arrays/ArrayMultidimensional)                                         |
-| 008 | Fundamentos | Métodos (overloading)           | [Sobrescritura de métodos — Herencia y Polimorfismo](01-Fundamentos/06-Metodos-overloading/PoliformismoOverride)   |
-| 009 | Fundamentos | Scanner                         | [Scanner — Entrada de datos por consola](01-Fundamentos/07-Scanner/Scanner)                                        |
-| 010 | POO         | Clases y objetos                | [Clases y objetos](<02-Programación Orientada a Objetos/01-Clases y objetos/Interaccion>)                          |
-| 011 | POO         | Atributos, constructores y this | [Atributos y constructores (this)](<02-Programación Orientada a Objetos/02-atributos-constructores-this/AtributosConstructor>) |
-| 012 | POO         | Encapsulamiento                 | [Encapsulamiento, getters y setters](<02-Programación Orientada a Objetos/03-Encapsulamiento/Encapsulamiento>)     |
-| 013 | POO         | Herencia                        | [Herencia — Persona, Trabajador y Cliente](<02-Programación Orientada a Objetos/04-Herencia/Personal>)             |
-| 014 | POO         | Polimorfismo                    | [Polimorfismo y sobrescritura de métodos](<02-Programación Orientada a Objetos/05-Polimorfismo/TrabajandoPolimorfismo>) |
-| 015 | POO         | Clases abstractas               | [Clases abstractas — Persona abstracta](<02-Programación Orientada a Objetos/06-Clases-abstractas/PersonaAbstracta>) |
-| 016 | POO         | Interfaces                      | [Interfaces — herencia abstracta + contrato por interfaz](<02-Programación Orientada a Objetos/07-Interfaces/UsandoInterfaces>) |
-| 017 | POO         | Composición                     | [Composición — Colegio, Curso y Estudiante](<02-Programación Orientada a Objetos/08-Composicion/ColegioComposicion>) |
-| 018 | POO         | Enums                            | [Enums — encapsulamiento de lógica con enum](<02-Programación Orientada a Objetos/09-Enums/EjemploEnumsSwitch>)    |
+| 006 | Fundamentos | Arrays                          | [Ordenamiento de arrays con Arrays.sort()](<01-Fundamentos/05-Arrays/Array sort>)                                   |
+| 007 | Fundamentos | Arrays                          | [Arrays unidimensionales](01-Fundamentos/05-Arrays/ArrayUnidimensional)                                             |
+| 008 | Fundamentos | Arrays                          | [Arrays multidimensionales](01-Fundamentos/05-Arrays/ArrayMultidimensional)                                         |
+| 009 | Fundamentos | Métodos (overloading)           | [Sobrescritura de métodos — Herencia y Polimorfismo](01-Fundamentos/06-Metodos-overloading/PoliformismoOverride)   |
+| 010 | Fundamentos | Scanner                         | [Scanner — Entrada de datos por consola](01-Fundamentos/07-Scanner/Scanner)                                        |
+| 011 | POO         | Clases y objetos                | [Clases y objetos](<02-Programación Orientada a Objetos/01-Clases y objetos/Interaccion>)                          |
+| 012 | POO         | Atributos, constructores y this | [Atributos y constructores (this)](<02-Programación Orientada a Objetos/02-atributos-constructores-this/AtributosConstructor>) |
+| 013 | POO         | Encapsulamiento                 | [Encapsulamiento, getters y setters](<02-Programación Orientada a Objetos/03-Encapsulamiento/Encapsulamiento>)     |
+| 014 | POO         | Herencia                        | [Herencia — Persona, Trabajador y Cliente](<02-Programación Orientada a Objetos/04-Herencia/Personal>)             |
+| 015 | POO         | Polimorfismo                    | [Gestor de personas con login — herencia y polimorfismo](<02-Programación Orientada a Objetos/05-Polimorfismo/Gestor de Personas - Login>) |
+| 016 | POO         | Polimorfismo                    | [Sistema de gestión de usuarios de biblioteca — herencia y polimorfismo](<02-Programación Orientada a Objetos/05-Polimorfismo/SistemaBiblioteca v.01>) |
+| 017 | POO         | Polimorfismo                    | [Polimorfismo y sobrescritura de métodos](<02-Programación Orientada a Objetos/05-Polimorfismo/TrabajandoPolimorfismo>) |
+| 018 | POO         | Clases abstractas               | [Clases abstractas — Persona abstracta](<02-Programación Orientada a Objetos/06-Clases-abstractas/PersonaAbstracta>) |
+| 019 | POO         | Interfaces                      | [Interfaces — herencia abstracta + contrato por interfaz](<02-Programación Orientada a Objetos/07-Interfaces/UsandoInterfaces>) |
+| 020 | POO         | Composición                     | [Composición — Colegio, Curso y Estudiante](<02-Programación Orientada a Objetos/08-Composicion/ColegioComposicion>) |
+| 021 | POO         | Enums                            | [Enums — encapsulamiento de lógica con enum](<02-Programación Orientada a Objetos/09-Enums/EjemploEnumsSwitch>)    |
+| 022 | Manejo de Errores | Try-catch-finally          | [Calculadora básica — do-while, switch y manejo de excepciones](<03-Manejo de Errores/01-Try-catch-finally/CalculadoraTryCatch>) |
 
 ---
 

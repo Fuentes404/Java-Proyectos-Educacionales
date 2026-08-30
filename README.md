@@ -211,6 +211,8 @@ Java-Proyectos-Educacionales/
 | 020 | POO         | Composición                     | [Composición — Colegio, Curso y Estudiante](<02-Programación Orientada a Objetos/08-Composicion/ColegioComposicion>) |
 | 021 | POO         | Enums                            | [Enums — encapsulamiento de lógica con enum](<02-Programación Orientada a Objetos/09-Enums/EjemploEnumsSwitch>)    |
 | 022 | Manejo de Errores | Try-catch-finally          | [Calculadora básica — do-while, switch y manejo de excepciones](<03-Manejo de Errores/01-Try-catch-finally/CalculadoraTryCatch>) |
+| 023 | Colecciones | ArrayList / LinkedList          | [Registro de estudiantes — do-while, switch y arquitectura en capas](<04-Colecciones/01-Arraylist linkedlist/RegistroEstudiante>) |
+| 024 | Colecciones | ArrayList / LinkedList          | [Uso de LinkedList — operaciones comunes de la colección](<04-Colecciones/01-Arraylist linkedlist/LinkedList>) |
 
 ---
 

@@ -1,9 +1,8 @@
-
 # Java Proyectos Educacionales 
 
-Repositorio con ejercicios y proyectos de Java desarrollados durante la universidad, organizados por tema. Cubre progresivamente desde fundamentos (variables, POO) hasta temas avanzados como colecciones, genéricos, programación funcional, concurrencia, patrones de diseño, persistencia con BD y proyectos integradores.
+Repositorio con ejercicios y proyectos de Java desarrollados durante la universidad, organizados por tema. Cubre progresivamente desde fundamentos (variables, POO) hasta temas avanzados como colecciones, genéricos, programación funcional, concurrencia, interfaces gráficas con Swing, patrones de diseño, persistencia con BD y proyectos integradores.
 
-Progreso: ▓▓▓▓▓▓░░░░░░░░░░░░░░ 30%
+Progreso: ▓▓▓▓▓░░░░░░░░░░░░░░░ 27%
 
 ---
 
@@ -70,7 +69,17 @@ Java-Proyectos-Educacionales/
 │   ├── 003-executorservice/
 │   └── 004-completablefuture/
 │
-├── 09-Patrones-Diseno/
+├── 09-Interfaces-Graficas-Swing/
+│   ├── 001-jframe-jpanel-componentes-basicos/
+│   ├── 002-layout-managers/
+│   ├── 003-manejo-eventos/
+│   ├── 004-listas-tablas-combos/
+│   ├── 005-dialogos/
+│   ├── 006-menus-barras-herramientas/
+│   ├── 007-edt-swingworker/
+│   └── 008-mini-proyecto-gui/
+│
+├── 10-Patrones-Diseno/
 │   ├── 001-singleton/
 │   ├── 002-factory/
 │   ├── 003-observer/
@@ -78,20 +87,21 @@ Java-Proyectos-Educacionales/
 │   ├── 005-builder/
 │   └── 006-decorator/
 │
-├── 10-Persistencia-BD/
+├── 11-Persistencia-BD/
 │   ├── 001-jdbc-conexion-basica/
 │   ├── 002-crud-consola-bd/
 │   └── 003-jpa-hibernate/
 │
-├── 11-Testing/
+├── 12-Testing/
 │   ├── 001-junit-basico/
 │   └── 002-assertions/
 │
-├── 12-Proyectos-Integradores/
+├── 13-Proyectos-Integradores/
 │   ├── 001-crud-completo-consola/
-│   ├── 002-proyecto-maven-gradle/
-│   ├── 003-api-rest-spring-boot/
-│   └── 004-arquitectura-en-capas/
+│   ├── 002-crud-swing-bd/
+│   ├── 003-proyecto-maven-gradle/
+│   ├── 004-api-rest-spring-boot/
+│   └── 005-arquitectura-en-capas/
 │
 └── README.md
 ```
@@ -159,7 +169,17 @@ Java-Proyectos-Educacionales/
 - [ ] ExecutorService
 - [ ] CompletableFuture
 
-### 9. Patrones de diseño
+### 9. Interfaces gráficas (Swing)
+- [ ] JFrame, JPanel y componentes básicos (JLabel, JButton, JTextField)
+- [ ] Layout managers (BorderLayout, FlowLayout, GridLayout, BoxLayout)
+- [ ] Manejo de eventos (ActionListener, MouseListener, KeyListener)
+- [ ] Listas, tablas y combos (JList, JTable, JComboBox)
+- [ ] Diálogos (JOptionPane, JFileChooser)
+- [ ] Menús y barras de herramientas
+- [ ] Event Dispatch Thread y SwingWorker
+- [ ] Mini proyecto: calculadora / lista de tareas con GUI
+
+### 10. Patrones de diseño
 - [ ] Singleton
 - [ ] Factory
 - [ ] Observer
@@ -167,17 +187,18 @@ Java-Proyectos-Educacionales/
 - [ ] Builder
 - [ ] Decorator
 
-### 10. Persistencia y bases de datos
+### 11. Persistencia y bases de datos
 - [ ] JDBC (conexión básica)
 - [ ] CRUD desde consola conectado a BD
 - [ ] JPA/Hibernate
 
-### 11. Testing
+### 12. Testing
 - [ ] JUnit (pruebas unitarias básicas)
 - [ ] Assertions
 
-### 12. Proyectos integradores
+### 13. Proyectos integradores
 - [ ] CRUD completo en consola
+- [ ] CRUD con interfaz Swing conectado a BD
 - [ ] Proyecto con Maven/Gradle
 - [ ] API REST básica (Spring Boot)
 - [ ] Proyecto con arquitectura en capas
@@ -219,6 +240,7 @@ Java-Proyectos-Educacionales/
 ## 🛠️ Tecnologías
 
 - Java (JDK 21)
+- Swing (incluido en el JDK, no requiere dependencias externas)
 
 ### Cómo clonar este repositorio
 

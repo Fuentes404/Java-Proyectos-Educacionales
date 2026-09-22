@@ -6,7 +6,7 @@ Progreso: ▓▓▓▓▓░░░░░░░░░░░░░░░ 27%
 
 ---
 
-## 📁 Estructura del Repositorios
+## 📁 Estructura del Repositorio
 
 ```
 Java-Proyectos-Educacionales/

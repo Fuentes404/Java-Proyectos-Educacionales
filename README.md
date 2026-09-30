@@ -2,7 +2,7 @@
 
 Repositorio con ejercicios y proyectos de Java desarrollados durante la universidad, organizados por tema. Cubre progresivamente desde fundamentos (variables, POO) hasta temas avanzados como colecciones, genéricos, programación funcional, concurrencia, interfaces gráficas con Swing, patrones de diseño, persistencia con BD y proyectos integradores.
 
-Progreso: ▓▓▓▓▓░░░░░░░░░░░░░░░ 27%
+Progreso: ▓▓▓▓▓▓░░░░░░░░░░░░░░ 30%
 
 ---
 
@@ -164,7 +164,7 @@ Java-Proyectos-Educacionales/
 - [ ] Manejo de rutas (Path, Files - NIO)
 
 ### 8. Concurrencia
-- [ ] Thread y Runnable
+- [x] Thread y Runnable
 - [ ] Synchronized
 - [ ] ExecutorService
 - [ ] CompletableFuture
@@ -197,7 +197,7 @@ Java-Proyectos-Educacionales/
 - [ ] Assertions
 
 ### 13. Proyectos integradores
-- [ ] CRUD completo en consola
+- [x] CRUD completo en consola
 - [ ] CRUD con interfaz Swing conectado a BD
 - [ ] Proyecto con Maven/Gradle
 - [ ] API REST básica (Spring Boot)
@@ -234,6 +234,8 @@ Java-Proyectos-Educacionales/
 | 022 | Manejo de Errores | Try-catch-finally          | [Calculadora básica — do-while, switch y manejo de excepciones](<03-Manejo de Errores/01-Try-catch-finally/CalculadoraTryCatch>) |
 | 023 | Colecciones | ArrayList / LinkedList          | [Registro de estudiantes — do-while, switch y arquitectura en capas](<04-Colecciones/01-Arraylist linkedlist/RegistroEstudiante>) |
 | 024 | Colecciones | ArrayList / LinkedList          | [Uso de LinkedList — operaciones comunes de la colección](<04-Colecciones/01-Arraylist linkedlist/LinkedList>) |
+| 025 | Concurrencia | Thread y Runnable | [Repartos en segundo plano — Runnable, hilos y atributo volatile](08-Concurrencia/001-thread-runnable/GestionEntregasConsola) |
+| 026 | Proyectos Integradores | CRUD completo en consola | [Gestión de entregas por consola — CRUD, herencia, interfaces, hilos (Runnable) y capas](13-Proyectos-Integradores/001-crud-completo-consola/GestionEntregasConsola) |
 
 ---
 

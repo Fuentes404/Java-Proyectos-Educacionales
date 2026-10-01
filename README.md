@@ -2,7 +2,7 @@
 
 Repositorio con ejercicios y proyectos de Java desarrollados durante la universidad, organizados por tema. Cubre progresivamente desde fundamentos (variables, POO) hasta temas avanzados como colecciones, genéricos, programación funcional, concurrencia, interfaces gráficas con Swing, patrones de diseño, persistencia con BD y proyectos integradores.
 
-Progreso: ▓▓▓▓▓▓░░░░░░░░░░░░░░ 30%
+Progreso: ▓▓▓▓▓▓░░░░░░░░░░░░░░ 32%
 
 ---
 

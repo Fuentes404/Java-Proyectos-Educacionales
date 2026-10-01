@@ -159,4 +159,5 @@ Descripción de cada parte que compone las clases:
 | `ObjetoDAO` | Consultas | Búsquedas específicas |
 | `ObjetoDAO` | Métodos Auxiliares | Apoyo interno |
 
+
 Esta maqueta permite arrancar un proyecto con orden desde el primer día: cada clase tiene su lugar, cada sección su propósito, y se adapta al tamaño y las necesidades de cada proyecto.

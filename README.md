@@ -97,7 +97,7 @@ Java-Proyectos-Educacionales/
 │   └── 002-assertions/
 │
 ├── 13-Proyectos Integradores/
-│   ├── 01-Crud completo consola/
+│   ├── 001-Crud completo consola/
 │   ├── 002-crud-swing-bd/
 │   ├── 003-proyecto-maven-gradle/
 │   ├── 004-api-rest-spring-boot/
@@ -201,7 +201,7 @@ Java-Proyectos-Educacionales/
 - [ ] CRUD con interfaz Swing conectado a BD
 - [ ] Proyecto con Maven/Gradle
 - [ ] API REST básica (Spring Boot)
-- [ ] Proyecto con arquitectura en capas
+- [x] Proyecto con arquitectura en capas
 
 ---
 
@@ -236,13 +236,15 @@ Java-Proyectos-Educacionales/
 | 024 | Colecciones | ArrayList / LinkedList          | [Uso de LinkedList — operaciones comunes de la colección](<04-Colecciones/01-Arraylist linkedlist/LinkedList>) |
 | 025 | Concurrencia | Thread y Runnable | [Thread y Runnable — Ejemplo de hilos](<08-Concurrencia/01-Thread runnable/ThreadEjemplo>) |
 | 026 | Proyectos Integradores | CRUD completo en consola | [Sistema de entregas por consola — CRUD, herencia, interfaces, hilos (Runnable) y capas](<13-Proyectos Integradores/01-Crud completo consola/Sistemas de Entregas>) |
+| 027 | Proyectos Integradores | Arquitectura en Capas | [Maqueta de proyecto por capas: plantilla con main, model, interfaces, services, ui, util y dao](<13-Proyectos Integradores/05-Aquitectura en Capas/ProyectoTipo>) |
 
 ---
-
 ## 🛠️ Tecnologías
 
 - Java (JDK 21)
 - Swing (incluido en el JDK, no requiere dependencias externas)
+- Maven (en proyectos integradores con `pom.xml`)
+- MySQL Connector/J (solo en proyectos con base de datos)
 
 ### Cómo clonar este repositorio
 

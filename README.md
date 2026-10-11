@@ -177,7 +177,7 @@ Java-Proyectos-Educacionales/
 - [ ] Diálogos (JOptionPane, JFileChooser)
 - [ ] Menús y barras de herramientas
 - [ ] Event Dispatch Thread y SwingWorker
-- [ ] Mini proyecto: calculadora / lista de tareas con GUI
+- [x] Proyecto con GUI: Biblioteca Escolar
 
 ### 10. Patrones de diseño
 - [ ] Singleton
@@ -235,9 +235,9 @@ Java-Proyectos-Educacionales/
 | 023 | Colecciones | ArrayList / LinkedList          | [Registro de estudiantes — do-while, switch y arquitectura en capas](<04-Colecciones/01-Arraylist linkedlist/RegistroEstudiante>) |
 | 024 | Colecciones | ArrayList / LinkedList          | [Uso de LinkedList — operaciones comunes de la colección](<04-Colecciones/01-Arraylist linkedlist/LinkedList>) |
 | 025 | Concurrencia | Thread y Runnable | [Thread y Runnable — Ejemplo de hilos](<08-Concurrencia/01-Thread runnable/ThreadEjemplo>) |
-| 026 | Proyectos Integradores | CRUD completo en consola | [Sistema de entregas por consola — CRUD, herencia, interfaces, hilos (Runnable) y capas](<13-Proyectos Integradores/01-Crud completo consola/Sistemas de Entregas>) |
-| 027 | Proyectos Integradores | Arquitectura en Capas | [Maqueta de proyecto por capas: plantilla con main, model, interfaces, services, ui, util y dao](<13-Proyectos Integradores/05-Aquitectura en Capas/ProyectoTipo>) |
-
+| 026 | Interfaces Gráficas   | proyecto GUI | [Biblioteca Escolar — Swing, arquitectura MVC, roles de usuario y préstamos con control de stock](<09-Interfaces-Graficas-Swing/08-Proyecto-GUI/BibliotecaGestion>) |
+| 027 | Proyectos Integradores | CRUD completo en consola | [Sistema de entregas por consola — CRUD, herencia, interfaces, hilos (Runnable) y capas](<13-Proyectos Integradores/01-Crud completo consola/Sistemas de Entregas>) |
+| 028 | Proyectos Integradores | Arquitectura en Capas | [Maqueta de proyecto por capas: plantilla con main, model, interfaces, services, ui, util y dao](<13-Proyectos Integradores/05-Aquitectura en Capas/ProyectoTipo>) |
 ---
 ## 🛠️ Tecnologías
 
